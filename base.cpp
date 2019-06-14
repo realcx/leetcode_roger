@@ -1,4 +1,4 @@
-/* g++ origin.cpp -o origin -std=c++11 */
+/* g++ origin.cpp -o hello -std=c++11 */
 
 #include <iostream>
 #include <vector>
