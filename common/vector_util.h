@@ -28,7 +28,7 @@ public:
         }
 
         for (size_t i = 0; i < v.size(); ++i) {
-            for (size_t j = 0; j < v.size(); j++) {
+            for (size_t j = 0; j < v[0].size(); j++) {
                 std::cout << v[i][j] << " ";
             }
             std::cout << "" << std::endl;
