@@ -5,7 +5,7 @@
 #include <algorithm>
 #include <math.h>
 
-#include "common/tree_util.h"
+#include "common/tree_util.hpp"
 
 using namespace std;
 

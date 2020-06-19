@@ -4,7 +4,7 @@
 #include <vector>
 #include <algorithm>
 
-#include "common/vector_util.h"
+#include "common/vector_util.hpp"
 
 using namespace std;
 

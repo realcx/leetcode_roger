@@ -5,7 +5,7 @@
 #include <algorithm>
 #include <climits>
 
-#include "common/vector_util.h"
+#include "common/vector_util.hpp"
 
 using namespace std;
 

@@ -1,4 +1,3 @@
-
 /* g++ origin.cpp -o origin -std=c++11 */
 
 #include <iostream>
